@@ -5,7 +5,7 @@
 -   email : ggomjae@naver.com
 -   github: https://github.com/ggomjae
 -   Diary & Development [BLOG](https://blog.naver.com/ggomjae)
--   Development Blog [BLOG](https://velog.io/@ggomjae)
+-   Development [BLOG](https://velog.io/@ggomjae)
 
 ## 학력 & 경력 사항 
 
