@@ -32,10 +32,13 @@
 ---
 -   TypeGraphQL, TypeORM, TypeScript를 이용한 SERVER 프로젝트
     -   기술 스택 :
-    -   기간 :
+    -   기간 : 10
     -   참여인원 :
     -   설명
-        -   ..
+        -   프로젝트 : ToDolist
+            2주 : React + Node + MariaDB（Docker）
+            3주 : Node + Sequelize + Mysql（Docker） + GraphQL
+            5주 : TypeScript + Node + TypeORM + TypeGraphQL + Mysql（Docker）
 
 
 ---
