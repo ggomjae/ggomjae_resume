@@ -35,16 +35,16 @@
     -   기간 : 10
     -   참여인원 :
     -   설명
-        -   프로젝트 : ToDolist
-            2주 : React + Node + MariaDB（Docker）
-            3주 : Node + Sequelize + Mysql（Docker） + GraphQL
-            5주 : TypeScript + Node + TypeORM + TypeGraphQL + Mysql（Docker）
+        -   프로젝트 : ToDolist   <br>
+            2주 : React + Node + MariaDB（Docker）<br>
+            3주 : Node + Sequelize + Mysql（Docker） + GraphQL <br>
+            5주 : TypeScript + Node + TypeORM + TypeGraphQL + Mysql（Docker）<br>
 
 
 ---
 ### ZUMInternet
 ---
--   블라인드웹 [신입사원 프로젝트]
+-   진행중인 프로젝트
     -   기술 스택 :
     -   기간 :
     -   참여인원 :
@@ -55,28 +55,15 @@
     -   기술 스택 :
     -   기간 :
     -   참여인원 :
-    -   설명ㅎ
-        -   ..
-
-## 개인 프로젝트
----
-### 통계
----
--   
-    -   기술 스택 : 
-    -   기간 : 
-    -   개인 프로젝트
     -   설명
         -   ..
 
----
-### 멀티모듈 낙서장
----
--   
-    -   기술 스택 : 
-    -   기간 : 
-    -   개인 프로젝트
+-   블라인드웹 [신입사원 프로젝트]
+    -   기술 스택 :
+    -   기간 :
+    -   참여인원 :
     -   설명
         -   ..
+
 ### 그 외
 
