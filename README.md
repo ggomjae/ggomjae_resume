@@ -4,8 +4,8 @@
 
 -   email : ggomjae@naver.com
 -   github: https://github.com/ggomjae
--   Diary & Development [BLOG](https://blog.naver.com/ggomjae)
 -   Development [BLOG](https://velog.io/@ggomjae)
+-   Diary & Development [BLOG](https://blog.naver.com/ggomjae)
 
 ## 학력 & 경력 사항 
 
@@ -32,7 +32,7 @@
 ---
 -   TypeGraphQL, TypeORM, TypeScript를 이용한 SERVER 프로젝트
     -   기술 스택 :
-    -   기간 : 10
+    -   기간 : 10주
     -   참여인원 :
     -   설명
         -   프로젝트 : ToDolist   <br>
@@ -44,7 +44,7 @@
 ---
 ### ZUMInternet
 ---
--   진행중인 프로젝트
+-   ZUM 현재 진행 프로젝트
     -   기술 스택 :
     -   기간 :
     -   참여인원 :
