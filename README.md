@@ -7,11 +7,11 @@
 -   Development [BLOG](https://velog.io/@ggomjae)
 -   Diary & Development [BLOG](https://blog.naver.com/ggomjae)
 
-## 학력 & 경력 사항 
+## 학력 & 경력 사항
 
-- (14.03 - 20.08) MYONGJI University - Computer Engineering
-- (20.07 - 20.09) Megazone - Pentacle Web Developer Intern
-- (20.12 -  ~ING) ZUMinternet - [ZUM](https://zum.com/) Web Developer 
+- (14.03 - 20.08) [MYONGJI University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) - Computer Engineering
+- (20.07 - 20.09) [Megazone_Pentacle](https://www.pentacle.co.kr/#MAIN) - Web Developer Intern
+- (20.12 -  ~ING) [ZUMinternet](https://zum.com/) - Web Developer 
 
 ## 기술 스택
 
